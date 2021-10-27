@@ -42,7 +42,9 @@ Protótipo de baixa fidelidade:
 
 Versão final
 
-![Versão final](https://ik.imagekit.io/q8vyo7feaitz/data-lovers_RMF7G66OO.gif?updatedAt=1635363796356)
+<h3 align="center">
+   <img alt="gif" src="https://ik.imagekit.io/q8vyo7feaitz/ezgif.com-gif-maker_3__4grMHpPfvTf.gif?updatedAt=1635367914840">
+</h3>
 
 ## Histórias de usuário
 
