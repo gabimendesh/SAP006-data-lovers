@@ -22,7 +22,7 @@ Rick é um cientista brilhante e está sempre em busca de grandes experiências,
 
 Data Lovers é um guia para os fãs dessa instigante animação, com ele é possível encontrar os personagens da série e filtrá-los de acordo com status e gênero, para que o usuário descubra os episódios em que ele(a) aparecem e possa escolher um para assistir. Também é possível pesquisar por nome e ordenar por número de episódios.
 
-Aplicação web desenvolvida durante o bootcamp da Laboratória.
+Aplicação web desenvolvida durante o bootcamp da Laboratória. Para acessá-la: https://gabimendesh.github.io/SAP006-data-lovers/
 
 ## Definição de produto
 
