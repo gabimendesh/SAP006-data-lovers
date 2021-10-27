@@ -42,7 +42,7 @@ Protótipo de baixa fidelidade:
 
 Versão final
 
-![Versão final](img/wireframe-final.png)
+![Versão final](https://ik.imagekit.io/q8vyo7feaitz/data-lovers_RMF7G66OO.gif?updatedAt=1635363796356)
 
 ## Histórias de usuário
 
