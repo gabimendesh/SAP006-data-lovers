@@ -38,11 +38,7 @@ Durante o processo, modificamos o design original, removendo o slider maior, poi
 
 Protótipo de baixa fidelidade:
 
-![Wireframe inicial](img/wireframe-inicial.png)
-
-Protótipo de alta fidelidade:
-
-![Wireframe final](img/wireframe-final-figma.png)
+![Wireframe inicial](https://ik.imagekit.io/q8vyo7feaitz/Rick_e_Morty_Layout__versaofinal__tLuH1NW3p.png?updatedAt=1635362984278)
 
 Versão final
 
