@@ -1,6 +1,6 @@
 ## Índice
 
-- [Sobre](#Data-Lovers---Rick-e-Morty)
+- [Sobre](#Data-Lovers)
 - [Resumo do projeto](#Projeto)
 - [Definição de produto](#Definição-de-produto)
 - [Layout](#Layout)
@@ -9,7 +9,7 @@
 - [Tecnologias utilizadas](#Tecnologias)
 
 ---
-
+<a id="Data-Lovers"></a>
 # Data Lovers - Rick e Morty
 
 [Rick and Morty](https://pt.wikipedia.org/wiki/Rick_and_Morty) é uma série de animação adulta norte-americana de comédia e ficção científica criada por Justin Roiland e Dan Harmon para o bloco de programação noturno Adult Swim, exibido no canal Cartoon Network.
@@ -18,18 +18,22 @@
 
 Rick é um cientista brilhante e está sempre em busca de grandes experiências, indo parar até em universos paralelos. Ele é bem esquentado e sempre sobra para seu neto, Morty, que o acompanha nessas expedições.
 
+<a id="Projeto"></a>
 ## Projeto
 
 Data Lovers é um guia para os fãs dessa instigante animação, com ele é possível encontrar os personagens da série e filtrá-los de acordo com status e gênero, para que o usuário descubra os episódios em que ele(a) aparecem e possa escolher um para assistir. Também é possível pesquisar por nome e ordenar por número de episódios.
 
 Aplicação web desenvolvida durante o bootcamp da Laboratória. Para acessá-la: https://gabimendesh.github.io/SAP006-data-lovers/
 
+<a id="Definição-de-produto"></a>
 ## Definição de produto
 
 A aplicação foi desenvolvida para que o usuário possa navegar no site de forma simples e prática, dando destaque aos cards dos personagens e as informações mais relevantes que o usuário deseja encontrar.
 A série possui muitos personagens, com diferentes características e assim, buscamos facilitar ao usuário encontrá-los, utilizando opções de filtros, como status e gênero.
 Dessa forma, facilitaria a escolha do episódio à assistir e a visualização das informações.
 
+
+<a id="Layout"></a>
 ## Layout
 
 O processo de criação foi pensado buscando um layout intuitivo e de fácil compreensão, que mostrasse apenas as informações principais, como imagem/especificações dos personagens, opções de filtro e estatísticas.
@@ -42,10 +46,10 @@ Protótipo de baixa fidelidade:
 
 Versão final
 
-<h3 align="center">
-   <img alt="gif" src="https://ik.imagekit.io/q8vyo7feaitz/ezgif.com-gif-maker_3__4grMHpPfvTf.gif?updatedAt=1635367914840">
-</h3>
+![Wireframe final](https://ik.imagekit.io/q8vyo7feaitz/Screenshot_from_2021-10-27_17-55-13_nTaeHDK6db.png?updatedAt=1635368304498)
 
+
+<a id="Histórias-de-usuário"></a>
 ## Histórias de usuário
 
 Backlog: O usuário está assistindo a série e gostaria de saber mais sobre os personagens, em qual episódio o personagem aparece, para escolher um ep. para assistir.
@@ -85,12 +89,14 @@ História 3: O usuário poderá pesquisar os personagens pelo nome.
 
 - [x] O usuário pode pesquisar personagens por nome e ver os cards com as informações do personagem.
 
+<a id="Testes-de-usabilidade"></a>
 ## Testes de usabilidade:
 
 De acordo com os resultados dos testes de usabilidade, tiramos o botão de filtrar e, agora, o conteúdo é filtrado assim que o usuário clica na opção desejada de filtro.
 E também diferenciamos os seletores de filtro dos outros botões a fim de deixar a experiência do usuário mais intuitiva.
 Por fim, mudamos o idioma das opções de select para português.
 
+<a id="Tecnologias"></a>
 ## Tecnologias
 
 - Javascript
